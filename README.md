@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on several projects to discover new tools and frameworks and developpe new skills.<br>I'm also currently helping MAJUKA by doing their website <br>I'm currently learning throw project at Paris Ynov Campus<br>I'm lokking to upgrade my homelab and host new tools.
+🔭 I'm currently working on several projects to discover new tools and frameworks and develop new skills.<br>
+🤝 I'm also currently helping MAJUKA by creating their website <br>
+🌱 I'm currently learning through projects at Paris Ynov Campus<br>
+⚡ I'm looking to upgrade my homelab and deploy new tools.
 
 
 ## 🌐 Socials:
@@ -15,4 +18,4 @@ I'm currently working on several projects to discover new tools and frameworks a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MatMatl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
